@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, comment = "#>")
 ```
 
-Let's get this party started test !!!!!!!!!
+
 # Submission
 
 1. Fork this repository to your own account
@@ -90,7 +90,7 @@ The key steps are to `gather()` the data into key-value pairs and then `separate
 # cleaned_data
 ```
 
-## Problem 3
+## Problem 2
 
 You need to translate what you learned on the command line into the R world.
 

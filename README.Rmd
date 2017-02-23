@@ -1,6 +1,6 @@
 ---
 title: "Problem Set 3. Due Thurs March 2 5pm"
-author: "Student name"
+author: "Shanshan Pei"
 date: "Feb 23, 2017"
 output: html_document
 ---
@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE, comment = "#>")
 ```
 
+Let's get this party started test !!!!!!!!!
 # Submission
 
 1. Fork this repository to your own account
